@@ -1,5 +1,5 @@
 {
-  "name": "madi-tutor-schedule-api",
+  "name": "madi-backend-node",
   "version": "1.0.0",
   "description": "API для расписания занятий МАДИ",
   "main": "server.js",
